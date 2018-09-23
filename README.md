@@ -8,4 +8,4 @@
 魔獸世界官方討論區就這個問題的討論：
 https://eu.battle.net/forums/en/wow/topic/17620282020?page=1
  
-解決方法是在 windows 上把 Cache folder 抄過來。外國有人好心把 Cache folder 抄了上來 github 給大家用，但之前只有英文版的。所以想玩台版的只好找部 Windows 機再安裝一次，為了
+解決方法是在 windows 上把 Cache folder 抄過來。外國有人好心把 Cache folder 抄了上來 github 給大家用，但之前只有英文版的。所以想玩台版的只好找部 Windows 機再安裝一次，為了其他人不用再經歷一次這個過程，就把 Cache folder 順手放上來了。
